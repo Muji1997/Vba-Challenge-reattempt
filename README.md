@@ -1,5 +1,4 @@
-# VBA-challenge
-Module 2 Challenge - VBA Challenge
+# Module 2 Challenge - VBA Challenge
 
 In this challenge, I used looping to go through one year of stock data to retrieve ticker symbol, volume of stocks, open and closed pricing.
 
@@ -9,4 +8,3 @@ I used the data to create a separate section that shows the greatest percent inc
 
 Upon checking, my VBA script ran successfully on all 3 worksheets with data.
 
-Enjoy!
